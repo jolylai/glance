@@ -1,0 +1,61 @@
+pages:
+  - name: Home
+    columns:
+      - size: small
+        widgets:
+          - type: calendar
+
+          - type: releases
+            repositories:
+              - unjs/automd
+              - glanceapp/glance
+              - teableio/teable
+              - vueComponent/ant-design-vue
+              - vuejs/vitepress
+
+      - size: full
+        widgets:
+          - type: search
+            search-engine: duckduckgo
+            bangs:
+              - title: YouTube
+                shortcut: '!yt'
+                url: https://www.youtube.com/results?search_query={QUERY}
+          - type: rss
+            limit: 50
+            cache: 3h
+            feeds:
+              - url: https://unjs.io/blog/rss.xml
+                title: Unjs
+              # - url: https://mdhweekly.com/rss.xml
+              #   title: MDH
+              - url: https://antfu.me/feed.xml
+                title: Anthony Fu
+
+      - size: small
+        widgets:
+          - type: weather
+            location: Xiamen, China
+
+          - type: bookmarks
+            groups:
+              - title: Vue
+                color: 10 70 50
+                links:
+                  - title: Netflix
+                    url: https://www.netflix.com/
+                  - title: Disney+
+                    url: https://www.disneyplus.com/
+                  - title: YouTube
+                    url: https://www.youtube.com/
+                  - title: Prime Video
+                    url: https://www.primevideo.com/
+              - title: Social
+                color: 200 50 50
+                links:
+                  - title: Reddit
+                    url: https://www.reddit.com/
+                  - title: Twitter
+                    url: https://twitter.com/
+                  - title: Instagram
+                    url: https://www.instagram.com/
