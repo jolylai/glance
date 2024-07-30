@@ -12,6 +12,7 @@ pages:
               - teableio/teable
               - vueComponent/ant-design-vue
               - vuejs/vitepress
+              - vitejs/vite
 
       - size: full
         widgets:
@@ -42,20 +43,16 @@ pages:
               - title: Vue
                 color: 10 70 50
                 links:
-                  - title: Netflix
-                    url: https://www.netflix.com/
+                  - title: Vite
+                    url: https://cn.vitejs.dev/
                   - title: Disney+
                     url: https://www.disneyplus.com/
                   - title: YouTube
                     url: https://www.youtube.com/
                   - title: Prime Video
                     url: https://www.primevideo.com/
-              - title: Social
+              - title: Docker
                 color: 200 50 50
                 links:
-                  - title: Reddit
-                    url: https://www.reddit.com/
-                  - title: Twitter
-                    url: https://twitter.com/
-                  - title: Instagram
-                    url: https://www.instagram.com/
+                  - title: Dockge
+                    url: https://github.com/louislam/dockge
