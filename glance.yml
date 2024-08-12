@@ -45,12 +45,17 @@ pages:
                 links:
                   - title: Vite
                     url: https://cn.vitejs.dev/
-                  - title: Disney+
-                    url: https://www.disneyplus.com/
+                  - title: Trending
+                    url: https://github.com/trending/typescript?since=daily
                   - title: YouTube
                     url: https://www.youtube.com/
                   - title: Prime Video
                     url: https://www.primevideo.com/
+              - title: Icons
+                color: 238 166 183
+                links:
+                  - title: heroicons
+                    url: https://heroicons.com/
               - title: Docker
                 color: 200 50 50
                 links:
