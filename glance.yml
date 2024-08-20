@@ -51,14 +51,10 @@ pages:
                     url: https://github.com/
                   - title: Wikipedia
                     url: https://en.wikipedia.org/
-              - title: Entertainment
+              - title: Vue
                 color: 10 70 50
                 links:
-                  - title: Netflix
-                    url: https://www.netflix.com/
-                  - title: Disney+
-                    url: https://www.disneyplus.com/
-                  - title: YouTube
-                    url: https://www.youtube.com/
-                  - title: Prime Video
-                    url: https://www.primevideo.com/
+                  - title: Vite
+                    url: https://cn.vitejs.dev/
+                  - title: Trending
+                    url: https://github.com/trending/typescript?since=daily
