@@ -73,8 +73,3 @@ pages:
                     url: https://www.youtube.com/
                   - title: Prime Video
                     url: https://www.primevideo.com/
-              - title: Icons
-                color: 238 166 183
-                links:
-                  - title: heroicons
-                    url: https://heroicons.com/
