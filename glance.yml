@@ -62,14 +62,3 @@ pages:
                     url: https://www.youtube.com/
                   - title: Prime Video
                     url: https://www.primevideo.com/
-              - title: Vue
-                color: 10 70 50
-                links:
-                  - title: Vite
-                    url: https://cn.vitejs.dev/
-                  - title: Trending
-                    url: https://github.com/trending/typescript?since=daily
-                  - title: YouTube
-                    url: https://www.youtube.com/
-                  - title: Prime Video
-                    url: https://www.primevideo.com/
