@@ -56,5 +56,8 @@ pages:
                 links:
                   - title: Vite
                     url: https://cn.vitejs.dev/
+              - title: Github
+                color: 10 70 50
+                links:
                   - title: Trending
                     url: https://github.com/trending/typescript?since=daily
