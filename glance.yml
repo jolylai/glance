@@ -15,6 +15,7 @@ pages:
               - vitejs/vite
               - umami-software/umami
               - nuxt/nuxt
+              - unocss/unocss
 
       - size: full
         widgets:
