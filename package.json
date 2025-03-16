@@ -2,7 +2,7 @@
   "name": "glance",
   "type": "module",
   "version": "1.0.4",
-  "packageManager": "pnpm@10.6.2",
+  "packageManager": "pnpm@10.6.3",
   "description": "",
   "author": "",
   "license": "ISC",
