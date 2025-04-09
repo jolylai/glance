@@ -16,6 +16,7 @@ pages:
               - umami-software/umami
               - nuxt/nuxt
               - unocss/unocss
+              - better-auth/better-auth
 
       - size: full
         widgets:
