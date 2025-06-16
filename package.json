@@ -2,7 +2,7 @@
   "name": "glance",
   "type": "module",
   "version": "1.0.7",
-  "packageManager": "pnpm@10.11.0",
+  "packageManager": "pnpm@10.12.1",
   "description": "",
   "author": "",
   "license": "ISC",
@@ -14,7 +14,7 @@
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^4.13.2",
-    "eslint": "^9.27.0"
+    "@antfu/eslint-config": "^4.14.1",
+    "eslint": "^9.29.0"
   }
 }
