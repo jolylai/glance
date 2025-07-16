@@ -19,6 +19,7 @@ pages:
               - better-auth/better-auth
               - rolldown/tsdown
               - rolldown/rolldown
+              - chibivue-land/chibivue
 
       - size: full
         widgets:
