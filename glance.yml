@@ -20,6 +20,7 @@ pages:
               - rolldown/tsdown
               - rolldown/rolldown
               - chibivue-land/chibivue
+              - nitrojs/nitro
 
       - size: full
         widgets:
