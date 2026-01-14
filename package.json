@@ -1,7 +1,7 @@
 {
   "name": "glance",
   "type": "module",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "packageManager": "pnpm@10.28.0",
   "description": "",
   "author": "",
