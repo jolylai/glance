@@ -1,0 +1,69 @@
+pages:
+  - name: Home
+    columns:
+      - size: small
+        widgets:
+          - type: calendar
+
+          - type: releases
+            repositories:
+              - unjs/automd
+              - glanceapp/glance
+              - teableio/teable
+              - vueComponent/ant-design-vue
+              - vuejs/vitepress
+              - vitejs/vite
+              - umami-software/umami
+              - nuxt/nuxt
+              - unocss/unocss
+              - better-auth/better-auth
+              - rolldown/tsdown
+              - rolldown/rolldown
+              - chibivue-land/chibivue
+              - nitrojs/nitro
+
+      - size: full
+        widgets:
+          - type: search
+            search-engine: duckduckgo
+            bangs:
+              - title: YouTube
+                shortcut: '!yt'
+                url: https://www.youtube.com/results?search_query={QUERY}
+          - type: rss
+            limit: 50
+            cache: 3h
+            feeds:
+              - url: https://unjs.io/blog/rss.xml
+                title: Unjs
+              # - url: https://mdhweekly.com/rss.xml
+              #   title: MDH
+              - url: https://antfu.me/feed.xml
+                title: Anthony Fu
+
+      - size: small
+        widgets:
+          - type: weather
+            location: Xiamen, China
+
+          - type: bookmarks
+            groups:
+              - links:
+                  - title: Gmail
+                    url: https://mail.google.com/mail/u/0/
+                  - title: Amazon
+                    url: https://www.amazon.com/
+                  - title: Github
+                    url: https://github.com/
+                  - title: Wikipedia
+                    url: https://en.wikipedia.org/
+              - title: Vue
+                color: 10 70 50
+                links:
+                  - title: Vite
+                    url: https://cn.vitejs.dev/
+              - title: Github
+                color: 10 70 50
+                links:
+                  - title: Trending
+                    url: https://github.com/trending/typescript?since=daily
