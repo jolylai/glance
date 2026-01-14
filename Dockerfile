@@ -1,5 +1,6 @@
 FROM glanceapp/glance
  
-COPY ./glance.yml /app/glance.yml
+COPY ./config:/app/config
+COPY ./assets:/app/assets
 
 EXPOSE 8080
