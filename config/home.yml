@@ -20,6 +20,8 @@
             - rolldown/rolldown
             - chibivue-land/chibivue
             - nitrojs/nitro
+            - antdv-next/antdv-next
+            - unovue/shadcn-vue
 
     - size: full
       widgets:
