@@ -22,6 +22,7 @@
             - nitrojs/nitro
             - antdv-next/antdv-next
             - unovue/shadcn-vue
+            - antfu/skills
 
     - size: full
       widgets:
