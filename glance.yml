@@ -21,6 +21,7 @@ pages:
               - rolldown/rolldown
               - chibivue-land/chibivue
               - nitrojs/nitro
+              - obra/superpowers
 
       - size: full
         widgets:
