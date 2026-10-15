@@ -1,4 +1,4 @@
-FROM glanceapp/glance
+FROM glanceapp/glance@sha256:bc5a392672c1ec8823c50b61f3bd4b7e5acc34fcbb8477862577b3af1c633875
  
 COPY ./config /app/config
 COPY ./assets /app/assets
